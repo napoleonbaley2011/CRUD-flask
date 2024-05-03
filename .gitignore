@@ -1,0 +1,7 @@
+/app/__pycache__
+/app/controller/__pycache__
+node_modules
+.env
+env/
+.venv
+env*
